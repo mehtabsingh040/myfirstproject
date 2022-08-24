@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
-public class Retr {
-
+public class Retrieve {
+    Scanner sc = new Scanner(System.in);
+  //
 }
